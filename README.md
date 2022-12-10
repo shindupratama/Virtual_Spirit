@@ -22,3 +22,5 @@
 - Dislike all image
 
 ## What the app looks like
+
+[![Screen-Shot-2022-12-09-at-21-51-16.png](https://i.postimg.cc/B6qMh2wY/Screen-Shot-2022-12-09-at-21-51-16.png)](https://postimg.cc/p96fr5vz)
